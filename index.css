@@ -1,0 +1,117 @@
+div{
+    width: 271px;
+    img{
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+    }
+    padding: 25px;
+    border-radius: 20px;
+    background-color: #fff;
+    
+}
+
+body{
+    background-color: #f0f0f0;
+}
+
+
+p{
+    color: gray;
+    font-size: smaller;
+    min-height: 50px;
+}
+
+h2{
+    font-size: 17px;
+}
+
+
+button{
+    height: 40px;
+    width: 110px;
+    background-color: #51267D;
+    border-radius: 40px;
+    margin-top: 40px; 
+    color: #fff;
+     margin-left: 60px; 
+    
+    
+}
+
+
+main{
+    display: flex;
+    gap: 10px;
+}
+
+
+.logo img{
+    width: 60px;
+}
+
+
+.links{
+    display: flex;
+    gap: 30px;
+}
+
+
+.ooo{
+    height: 48px;
+    width: 48px;
+    
+}
+
+
+h4{ 
+
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1,5rem;
+
+}
+
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gg{
+    display: flex;
+    gap: 20px;
+}
+
+.logos{
+    width: 38px;
+    height: 38px;
+    padding-left: 100px;
+    padding-top: 24px;
+
+}
+
+
+.isint{
+    color: #000;
+    text-decoration: none;
+    font-size: 18px;
+    padding-left: 30px;
+    padding-right: 50px;
+    
+    
+}
+
+
+
+
+.huh{
+    padding-left: 100px;
+ 
+}
+
+a{
+    gap: 50px;
+}
